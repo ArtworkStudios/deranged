@@ -1,0 +1,4 @@
+--install in studio: via script
+
+task.wait()
+warn("Loaded","Thanks To TronixDev",os.time)
